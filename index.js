@@ -204,5 +204,5 @@ bot.onText(/\/rmvsection (.+)/, async(m, a) => {
 bot.on("polling_error", console.log);
     
 setInterval(async() => {
-  await fetch("https://SamehArchive00.thatdevicec26.repl.co");
+  await fetch("https://SamehArchive.myhost.com");
 }, 180000)
